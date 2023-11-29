@@ -1,5 +1,5 @@
 {
-  "name": "vuedraggable",
+  "name": "@fork-anyone/vuedraggable",
   "version": "3.0.1",
   "description": "draggable component for vue",
   "license": "MIT",
